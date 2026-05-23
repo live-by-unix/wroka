@@ -28,7 +28,7 @@ Install via Cargo:
 
 Or build from source:
 
-    git clone https://github.com/yourname/wroka
+    git clone https://github.com/live-by-unix/wroka.git
     cd wroka
     cargo build --release
 
