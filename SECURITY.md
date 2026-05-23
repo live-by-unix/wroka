@@ -1,6 +1,6 @@
 WROKA Security Model
 
-WROKA is designed for maximum power and minimum ceremony. This means plugins are not sandboxed and run with full system access. This document explains what that means and how to use WROKA safely.
+WROKA is designed for maximum power. This means plugins are not sandboxed and run with full system access of the user running the WROKA program. This document explains what that means and how to use WROKA safely.
 
 Security Warning
 
@@ -61,13 +61,4 @@ Mitigation: Run WROKA as a non-root user
 Threat: Supply chain attack  
 Mitigation: Pin plugin versions
 
-Reporting Security Issues
-
-If you discover a vulnerability, open a private security advisory on GitHub.
-
-Final Note
-
-WROKA is powerful.  
-WROKA is real.  
-WROKA is not a toy.  
-Use it wisely.
+IF YOU DISCOVER A VULNERABLILITY, PLEASE OPEN A GITHUB ISSUE RIGHT AWAY. IF YOU DO NOT HAVE A GITHUB ACCOUNT, TELL A FAMILY OR FRIEND WITH ONE TO REPORT THE ISSUE RIGHT AWAY. 
